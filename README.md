@@ -3,29 +3,47 @@
 </h2>
 
 <h4 align='center'>
-  AI | WEB | BLOCKCHAIN Developer 
+  Senior AI/ML/DL Developer | Full Stack Web Developer
 </h4>
 
 <!-- <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     </a>
-     <a href="https://github.com/rockstarcoder333">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rockstarcoder333?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+     <a href="https://github.com/IntellaCoder">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/IntellaCoder?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
     </p> -->
 
 
 ## 👩  About me:
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" width="400" />
-<p>
-I am working as a <b>AI</b> & <b>Web</b> for 11 years with <b>Blockchain</b> and have developed many projects according to clients' needs.<br>
-I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>self-starter</b>, which alongside my aptitude for learning, keeps me updated. <br>
-I am an <b>ambitious man</b> with rich experience.<br>
-Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.<br>
-Develop <b>high-quality</b> Mobile app for rapid deployment of bug fixes and new features using established development standards.<br>
-As an expert problem solver, responsive to client needs, and detail-oriented, I have a proven track record of consistently providing high levels of customer <b>satisfaction</b>.<br>
-I can contribute to your project as an individual <b>full-stack developer</b>. And if you want to work with our agency, I can lead teammates.<br>
-Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> experiences.<br>
-</p>
+➣ 10 years of Full Stack web development experience.
+➣ 8 years of AI/ML/DL experience.
+
+- Artificial Intelligence
+
+Areas of expertise:
+✅ NLP (Text classification, Topic modelling, NER, QA, Chatbots, Text generation, Prompt engineering/Fine-tune GPT3)
+✅ Time Series Forecasting (ML/DL model development for financial/economic and other time series data)
+✅ Computer vision and image processing (Object detection/tracking, Image/Video classification, Image generation, OCR)
+✅ Speech to Recognition by IBM Watson (Audio classification, Sound segmentation)
+✅ Sports Betting Forecasting (Data analysis and visualisation for sales data/customer behaviour data)
+
+- Web Experience
+
+✅ Donating Websites for US client (AngularJS+Laravel+MySQL+Paypal Integration)
+✅ OndemandCart (Online Shopping and shipping web service, Laravel)
+✅ Paperlessconnection (Paperless Patient Treatment system for Dentist - Angular+Firebase+Stripe,Paypal)
+✅ Shopbolt (Online Shopping and Shipping Web service, Sequalized Mysql+Express+Angular+NodeJS)
+
+Tech Stack:
+- Languages: Java, Python, Go Lang R, Scala
+- ML/DL tools: Tensorflow, Keras, PyTorch, Scikit-Learn
+- NLP: LangChain, OpenAI(GPT-3/4, Embeddings, ChatGPT), Transformers
+- MLOps: MLFlow
+- Data analysis/visualization tools: Pandas, NumPy, Matplotlib, Seaborn
+- Web frameworks for creating APIs: MEAN, MERN, Django, Laravel+Vue.js
+- DB: MongoDB, MySQL, PostgreSQL
+
+            
 
 <h2>🥇 Specialised in:</h2>
 <p>🔸 ML/DL - Tensorflow, Keras, Pytorch
@@ -86,17 +104,15 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
 </div>    
 </br>
   <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=rockstarcoder333&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="rockstarcoder333" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockstarcoder333&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="rockstarcoder333" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=IntellaCoder&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="IntellaCoder" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=IntellaCoder&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="IntellaCoder" align = "center"/></p>
 
 
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rockstarcoder333&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="rockstarcoder333" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IntellaCoder&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="IntellaCoder" /></p>
 
 
-<!-- </details>
-<details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/rockstarcoder333"><img src="https://github-profile-trophy.vercel.app/?username=rockstarcoder333&margin-w=5&theme=radical" alt="rockstarcoder333" /></a> </p>
+<p align="center"> <a href="https://github.com/IntellaCoder"><img src="https://github-profile-trophy.vercel.app/?username=IntellaCoder&margin-w=5&theme=radical" alt="IntellaCoder" /></a> </p>
 
 <br>

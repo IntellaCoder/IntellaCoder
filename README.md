@@ -15,24 +15,24 @@
 
 
 ## 👩  About me:
-➣ 10 years of Full Stack web development experience.
+➣ 10 years of Full Stack web development experience.<br>
 ➣ 8 years of AI/ML/DL experience.
 
 - Artificial Intelligence
 
-Areas of expertise:
-✅ NLP (Text classification, Topic modelling, NER, QA, Chatbots, Text generation, Prompt engineering/Fine-tune GPT3)
-✅ Time Series Forecasting (ML/DL model development for financial/economic and other time series data)
-✅ Computer vision and image processing (Object detection/tracking, Image/Video classification, Image generation, OCR)
-✅ Speech to Recognition by IBM Watson (Audio classification, Sound segmentation)
-✅ Sports Betting Forecasting (Data analysis and visualisation for sales data/customer behaviour data)
+Areas of expertise:<br>
+✅ NLP (Text classification, Topic modelling, NER, QA, Chatbots, Text generation, Prompt engineering/Fine-tune GPT3)<br>
+✅ Time Series Forecasting (ML/DL model development for financial/economic and other time series data)<br>
+✅ Computer vision and image processing (Object detection/tracking, Image/Video classification, Image generation, OCR)<br>
+✅ Speech to Recognition by IBM Watson (Audio classification, Sound segmentation)<br>
+✅ Sports Betting Forecasting (Data analysis and visualisation for sales data/customer behaviour data)<br>
 
 - Web Experience
 
-✅ Donating Websites for US client (AngularJS+Laravel+MySQL+Paypal Integration)
-✅ OndemandCart (Online Shopping and shipping web service, Laravel)
-✅ Paperlessconnection (Paperless Patient Treatment system for Dentist - Angular+Firebase+Stripe,Paypal)
-✅ Shopbolt (Online Shopping and Shipping Web service, Sequalized Mysql+Express+Angular+NodeJS)
+✅ Donating Websites for US client (AngularJS+Laravel+MySQL+Paypal Integration)<br>
+✅ OndemandCart (Online Shopping and shipping web service, Laravel)<br>
+✅ Paperlessconnection (Paperless Patient Treatment system for Dentist - Angular+Firebase+Stripe,Paypal)<br>
+✅ Shopbolt (Online Shopping and Shipping Web service, Sequalized Mysql+Express+Angular+NodeJS)<br>
 
 Tech Stack:
 - Languages: Java, Python, Go Lang R, Scala
